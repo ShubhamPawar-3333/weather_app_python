@@ -1,4 +1,4 @@
-# Simple Weather App using Streamlit and OpenWeatherMap API
+# Simple Weather App using Python, Streamlit and OpenWeatherMap API
 
 This is a simple weather app created using Python, Streamlit, and the OpenWeatherMap API. The app allows users to input a city name and retrieve the current weather information for that city.
 
