@@ -27,7 +27,7 @@ You need to obtain an API key from OpenWeatherMap. Visit [OpenWeatherMap API](ht
 import streamlit as st
 import requests
 ```
-2. Storing API key into `API_KEY` variable
+2. Storing API key into `api_key`
 
 3. Creating a function to fetch weather data from API based on city input
 ```python
