@@ -69,16 +69,7 @@ streamlit run weather_app.py
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Streamlit](https://streamlit.io/)
 - [OpenWeatherMap API](https://openweathermap.org/api)
-
-Happy coding!
-```
-
-Make sure to replace `"your-username"` in the clone URL with your actual GitHub username. Additionally, include a license file (`LICENSE`) if desired and adjust the README file as needed for your project.
